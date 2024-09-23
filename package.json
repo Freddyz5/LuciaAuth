@@ -23,6 +23,8 @@
   },
   "workspaces": ["apps/*", "packages/*", "tools/*"],
   "dependencies": {
-    "@bogeychan/elysia-logger": "^0.0.19"
+    "@bogeychan/elysia-logger": "^0.1.2",
+    "elysia": "^1.1.13",
+    "expo-router": "~3.4.10"
   }
 }

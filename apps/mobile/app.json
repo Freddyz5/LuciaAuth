@@ -18,6 +18,7 @@
       "bundleIdentifier": "com.example.mona-ca"
     },
     "android": {
+      "package": "com.example.mona_ca",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
